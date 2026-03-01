@@ -26,6 +26,7 @@ sudo pacman -S --needed pipewire wireplumber pavucontrol brightnessctl playerctl
 
 ## ✅ Pós-instalação
 
+```bash
 # Habilitar serviços
 sudo systemctl enable --now NetworkManager bluetooth
 
