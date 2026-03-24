@@ -14,7 +14,7 @@ Estes são os pacotes centrais para o seu Window Manager funcionar da forma como
 - **`hyprcursor`**: Gerenciador de cursores do ecossistema Hypr.
 - **`xdg-desktop-portal-hyprland`** e **`xdg-desktop-portal-gtk`**: Essenciais para compartilhamento de tela e gerenciamento de arquivos por flatpaks.
 
-## ⚙ Herramentas e Shell
+## ⚙ Ferramentas e Shell
 O menu e controles do sistema utilizam esses pacotes:
 - **`rofi-wayland`**: Fundamental para o `custom_menu.sh` e menus em tela.
 - **`yq`**: Processador YAML de linha de comando (essencial, pois o seu script do Rofi extrai dados de um `menu.yaml` usando `yq`).
